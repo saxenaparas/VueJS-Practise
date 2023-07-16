@@ -1,2 +1,2 @@
-# Vue-Practise
+# VueJS-Practise
 Learning &amp; Exploring Vue Framework
